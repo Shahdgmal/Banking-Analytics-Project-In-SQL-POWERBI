@@ -4,13 +4,13 @@
    It focuses on customer segmentation, risk management, fraud detection, and operational efficiency using Microsoft Azure, SQL Server, Power BI, and Python.
 
 ## DataSet
-- < a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/Banking_Analytics_Dataset.xlsx">DataSet</a>
+- <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/Banking_Analytics_Dataset.xlsx">DataSet</a>
 
 ## PowerBi DashBoard
-- < a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/FinalDashBoard.pbix">Dashboard</a>
+- <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/FinalDashBoard.pbix">Dashboard</a>
 
 ## Project Presentation
-- <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/Presentation.pdf"><Presentation<a/>
+- <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/Presentation.pdf">Presentation<a/>
 
 ## Objective
 - Customer Segmentation: Apply RFM (Recency, Frequency, Monetary) analysis to categorize customers for targeted marketing.
