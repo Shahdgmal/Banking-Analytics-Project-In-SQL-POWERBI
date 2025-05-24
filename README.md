@@ -2,7 +2,7 @@
 
 ## Overview
 ### The Banking Analysis Project, developed by Team 20 during the EYouth Data Analytics Bootcamp, uses cloud and data analytics technologies to optimize banking operations. 
-   It focuses on customer segmentation, risk management, fraud detection, and operational efficiency using Microsoft Azure, SQL Server, Power BI, and Python.
+### It focuses on customer segmentation, risk management, fraud detection, and operational efficiency using Microsoft Azure, SQL Server, Power BI, and Python.
 
 ## DataSet
 - <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/Banking_Analytics_Dataset.xlsx">DataSet</a>
