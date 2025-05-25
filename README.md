@@ -11,7 +11,7 @@
 - <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/FinalDashBoard.pbix">Dashboard</a>
 
 ## SQL QUERY
-- <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/SQL%20Query.pdf">SQL<a/>
+- <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/Final%20_SQL.sql">SQL<a/>
 
 ## Project Presentation
 - <a href="https://github.com/Shahdgmal/Banking-Analytics-Project-In-SQL-POWERBI/blob/main/Presentation.pdf">Presentation<a/>
